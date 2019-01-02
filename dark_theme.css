@@ -1288,4 +1288,6 @@ ader {
 }
 /* user groups */
 
-#user_groups_container .m
+#user_groups_container .mention {
+    background-color: var(--background-hover);
+}
